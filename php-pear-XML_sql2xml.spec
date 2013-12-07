@@ -5,7 +5,7 @@
 Summary:	Returns XML from a SQL-query
 Name:		php-pear-%{modname}
 Version:	0.3.4
-Release:	8
+Release:	9
 License:	PHP License
 Group:		Development/PHP
 Url:		http://pear.php.net/package/XML_sql2xml/
