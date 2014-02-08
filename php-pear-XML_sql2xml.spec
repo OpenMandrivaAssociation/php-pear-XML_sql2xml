@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3.4
-Release:	8
+Release:	9
 Summary:	Returns XML from a SQL-query
 License:	PHP License
 Group:		Development/PHP
