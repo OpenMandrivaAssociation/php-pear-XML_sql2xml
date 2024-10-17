@@ -8,7 +8,7 @@ Version:	0.3.4
 Release:	17
 License:	PHP License
 Group:		Development/PHP
-Url:		http://pear.php.net/package/XML_sql2xml/
+Url:		https://pear.php.net/package/XML_sql2xml/
 Source0:	http://download.pear.php.net/package/%{modname}-%{version}.tgz
 BuildArch:	noarch
 BuildRequires:	php-pear
